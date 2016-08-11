@@ -3,6 +3,10 @@ SUPINFO AppFactory Plugin: simpleSliderPlugin
 
 Use this plugin to showcase your images & photos in an image gallery or use it to provide slide-by-slide instructions.
 
+### plugin overview
+
+http://support.appdocumentation.com/knowledge-base/slider-plugin-tutorial/
+
 ###Install bower and node dependencies
 ```bash
 $ bower install
